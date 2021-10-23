@@ -6,7 +6,7 @@ Note: Defaults to "-" if second argument is not sent. You can see it in detail i
 
 # Installation
 
-`npm install replacespaces`
+`npm install changespace`
 
 Then..
 
