@@ -12,7 +12,7 @@ Then..
 
 For Example
 
-const change = require("replacespaces"),
+const change = require("changespace"),
     text = "No Explanation Here",
     specialChar = "+";
 
