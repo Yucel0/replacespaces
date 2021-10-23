@@ -6,13 +6,13 @@ Note: Defaults to "-" if second argument is not sent. You can see it in detail i
 
 # Installation
 
-`npm install changespace`
+`npm install textualchange`
 
 Then..
 
 For Example
 
-const change = require("changespace"),
+const change = require("textualchange"),
     text = "No Explanation Here",
     specialChar = "+";
 
